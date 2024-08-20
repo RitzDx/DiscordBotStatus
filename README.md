@@ -20,3 +20,5 @@ However, the type is mandatory to be a specific type, such as "PLAYING", "WATCHI
 
 # How to start the script
 Simply run "Start.bat"
+
+// This might not be visible
