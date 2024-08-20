@@ -14,7 +14,7 @@ Changes a bots status using Javascript!
 • Change the "UserID" with your userid, Developer mode is required to do this
 
 # How to change what the bot's activity is
-To change the bot's Activity change the "BOTACTIVITY" in the "DiscordBotStatus.js" to Anything!
+To change the bot's Activity, add what ever you want after "Activity:" in the "DiscordBotStatus.js"!
 
 However, the type is mandatory to be a specific type, such as "PLAYING", "WATCHING" "COMPETING", "LISTENING" ect.
 
